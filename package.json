@@ -1,0 +1,26 @@
+{
+  "name": "chatbot-para-desktop",
+  "version": "1.0.0",
+  "description": "app-chatbot",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Larissa2650/app-desktop.git"
+  },
+  "author": "LARISSA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Larissa2650/app-desktop/issues"
+  },
+  "homepage": "https://github.com/Larissa2650/app-desktop#readme",
+  "devDependencies": {
+    "electron": "^23.2.1"
+  },
+  "dependencies": {
+    "chatgpt": "^5.2.2"
+  }
+}
